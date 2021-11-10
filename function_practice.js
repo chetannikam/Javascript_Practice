@@ -15,7 +15,7 @@ function sum_of_all_elements(array=[])
     return sum
 }
 
-const a=[1,2,3,4]
+const a=[1,2,3,4,5,6]
 printArrayElements(a)
 let result;
 result=sum_of_all_elements(a)
